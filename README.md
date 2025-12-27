@@ -19,5 +19,10 @@ Speed
 User experience
 
 ## OUTPUT
+```
+[ex-2.docx](https://github.com/user-attachments/files/24356383/ex-2.docx)
 
+```
 ## RESULT
+The experiment shows that few-shot and role-based prompting give the most accurate and coherent text summaries across all AI platforms. Chain-of-thought prompting improves logical flow but can make summaries slightly longer. Zero-shot prompting produces basic summaries with less consistency. Overall, ChatGPT and Claude perform best for text summarization, followed by Gemini, while Copilot works best with structured or few-shot prompts.
+ 
